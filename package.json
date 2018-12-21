@@ -1,5 +1,5 @@
 {
-  "name": "@o2team/react-draggable",
+  "name": "o2team-react-draggable",
   "version": "3.0.6",
   "description": "React draggable component",
   "main": "dist/react-draggable.js",
